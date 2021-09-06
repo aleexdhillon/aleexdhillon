@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP/Laravel, JS/Vue.js
 - 🌱 I’m currently learning something new everyday...
 - 💞️ I’m looking to collaborate on Laravel.
-- 📫 How to reach me aleedhx@gmail.com
+- 📫 Reach me on twitter @AleeDXDev
 
 <!---
 aleexdhillon/aleexdhillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
